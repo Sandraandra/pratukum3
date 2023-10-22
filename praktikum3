@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .kolom_1{
+            height: 100%;
+            width: 35%;
+            float: left;
+        }
+
+        .kolom_2{0
+            height: 245%;
+            width: 35%;
+            float: left;
+        }
+
+        .kolom_3{
+            height: 245%;
+            width: 35%;
+            float: left;
+        }
+       .kolom_4{
+            height: 245%;
+            width: 190%;
+            float: right;
+        }
+
+        .kolom_5{
+            height: 245%;
+            width: 35%;
+            float: left;
+        }
+
+        .kolom_6{
+            height: 245%;
+            width: 35%;
+            float: left;
+        }
+
+        .kolom_7{
+            height: 245%;
+            width: 40%;
+            float: left;
+        }
+
+    </style>
+</head>
+<body style="background-color:rgb(240, 238, 236);">
+    <div class="kolom1">
+        <img src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-121499318/no-brand_no-brand_full01.jpg" width="300">
+    </div>
+
+    <div class="kolom2">
+        <h1>Profile Name</h1>
+        <p>Alamat : Jl Akses UI</p>
+        <p>Email : sandra</p>
+        <p>Telphone : 082262782052</p>
+    </div>
+
+    <div class="kolom3">
+        <h3>Katagori</h3>
+        <p>saya memiliki tekad yang tinggi</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+    </div>
+
+    <div class="kolom4">
+        <h3>
+          saya atas nama sandra berasal dari sulawesi selatan yang mendapatkan beasiswa yayasan untuk berkuliah di sttnf, dengan ini saya akan giat belajar 
+          dan rajin mengikuti organisasi agar bisa dapat nilai IPK yang memuaskan.
+        </h3>
+    </div>
+
+    <div class="kolom5">
+        <iframe src="https://www.youtube.com/embed/nAn5Pup_Rws?si=zMYqQ3WkblqcPTBL" frameborder="2"></iframe>
+    </div>
+
+    <div class="kolom6" style="border: 2;">
+        <img src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-121499318/no-brand_no-brand_full01.jpg" width="100">
+        <img src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-121499318/no-brand_no-brand_full01.jpg" width="100">
+        <img src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-121499318/no-brand_no-brand_full01.jpg" width="100">
+        <img src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-121499318/no-brand_no-brand_full01.jpg" width="100">
+    </div>
+
+    <div class="kolom7">
+        <a href="https://elena.nurulfikri.ac.id/"> masuk elena</a>
+        <br>
+        <a href="https://ais.nurulfikri.ac.id/"> masuk ais</a>
+
+    </div>
+
+
+
+
+</body>
+</html
